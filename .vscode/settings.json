@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "[markdown]": {},
+  "grammarly.files.include": ["**/readme.md", "**/README.md", "**/*.txt", "**/*.md"]
+}
