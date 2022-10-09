@@ -27,11 +27,11 @@ jobs:
       - name: Proof HTML 📚
         run: hugo --gc --minify -e production -v -b https://example.com/
 
-      # - name: Check HTML
-      #   uses: chabad360/htmlproofer@master
-      #   with:
-      #     directory: './public'
-      #     arguments: --allow-hash-href=true --ignore-empty-alt=true --disable-external=true --ignore-empty-mailto=true
+      - name: Check HTML
+        uses: ShoGinn/htmlproofer@master
+        with:
+          directory: './public'
+          arguments: --allow-hash-href --ignore-empty-alt --disable-external --ignore-empty-mailto
   release:
     runs-on: ubuntu-latest
     needs:
