@@ -1,47 +1,20 @@
 #!/usr/bin/env bash
+__dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-REQUIRED_TOOLS=(
-    hugo
-    npm
-)
+# shellcheck source=../functions/core.sh
+source "${__dir}"/../functions/core.sh
+# shellcheck source=../functions/hugo.sh
+source "${__dir}"/../functions/hugo.sh
 
-for TOOL in "${REQUIRED_TOOLS[@]}"; do
-    if ! command -v "${TOOL}" >/dev/null; then
-        echo "${TOOL} is required... "
-        exit 1
+# refresh_hugo
+if [[ ${SHOGINN_SCRIPTS_BUILD_HUGO:-} || ${SHOGINN_SCRIPTS_SERVE_HUGO:-} ]]; then
+    if [[ ${SHOGINN_SCRIPTS_BUILD_HUGO:-} ]]; then
+        build_hugo
     fi
-done
 
-FILE=.env
-if [ -f "$FILE" ]; then
-    set -a
-    # shellcheck source=/dev/null
-    source "${FILE}"
-    set +a
+    if [[ ${SHOGINN_SCRIPTS_SERVE_HUGO:-} ]]; then
+        serve_hugo
+    fi
+else
+    error "You never specified what type of hugo to run!"
 fi
-
-BASE_URL_PARAM=""
-if [ -n "${1}" ]; then
-    BASE_URL_PARAM="-b=${1}"
-fi
-
-# cleanup hugo logging
-npm run clean:hugo
-
-# update modules
-hugo mod get -u ./...
-
-# starting hugo server
-hugo \
-    --minify \
-    --printI18nWarnings \
-    --templateMetrics \
-    --templateMetricsHints \
-    --printPathWarnings \
-    --cleanDestinationDir \
-    --enableGitInfo \
-    --log=true \
-    --logFile hugo.log \
-    --verbose \
-    --verboseLog \
-    "${BASE_URL_PARAM}"
