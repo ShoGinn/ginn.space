@@ -10,14 +10,14 @@ HUGO_ENABLEGITINFO = "true"
 [context.production.environment]
 HUGO_ENV = "production"
 WC_POST_CSS = "true"
-SHOGINN_SCRIPTS_HUGO_BASE_URL = "${URL}"
+SHOGINN_SCRIPTS_NETLIFY = "URL"
 
 [context.deploy-preview]
-SHOGINN_SCRIPTS_HUGO_BASE_URL = "${DEPLOY_PRIME_URL}"
+SHOGINN_SCRIPTS_NETLIFY = "DEPLOY"
 HUGO_BUILDFUTURE = "true"
 
 [context.branch-deploy]
-SHOGINN_SCRIPTS_HUGO_BASE_URL = "${DEPLOY_PRIME_URL}"
+SHOGINN_SCRIPTS_NETLIFY = "DEPLOY"
 
 [[plugins]]
 package = "netlify-plugin-hugo-cache-resources"

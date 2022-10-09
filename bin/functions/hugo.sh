@@ -45,6 +45,18 @@ function __hugo_env() {
     info "Settings up the Hugo Environment"
     __hugo_args_indiv=()
 
+    __type="${SHOGINN_SCRIPTS_NETLIFY:-}"
+    if [[ ${__type:-} ]]; then
+        if [[ ${__type} == "URL" ]]; then
+            info "Base URL Set to ${URL:-}"
+            __hugo_args_indiv+=("--baseURL=${URL:-}")
+        fi
+        if [[ ${__type} == "DEPLOY" ]]; then
+            info "Base URL Set to ${DEPLOY_PRIME_URL:-}"
+            __hugo_args_indiv+=("--baseURL=${DEPLOY_PRIME_URL:-}")
+        fi
+    fi
+
     if [[ "${SHOGINN_SCRIPTS_HUGO_BASE_URL:-}" ]]; then
         info "Base URL Set to ${SHOGINN_SCRIPTS_HUGO_BASE_URL}"
         __hugo_args_indiv+=("--baseURL=${SHOGINN_SCRIPTS_HUGO_BASE_URL}")
