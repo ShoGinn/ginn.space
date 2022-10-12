@@ -1,6 +1,6 @@
 # This is the website for Scott Ginn
 
-[![Generate and deploy](https://github.com/ShoGinn/ginn.space/actions/workflows/deploy.yml/badge.svg)](https://github.com/ShoGinn/ginn.space/actions/workflows/deploy.yml)
+[![Proof](https://github.com/ShoGinn/ginn.space/actions/workflows/html_proof.yml/badge.svg?branch=main)](https://github.com/ShoGinn/ginn.space/actions/workflows/html_proof.yml)
 
 The site is based off of [Hugo](https://gohugo.io/), a static site generator.
 

@@ -23,22 +23,18 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://help.agi.com/stk/index.htm#training/CertificationOverview.htm
+  - certificate_url: https://coursera.org/share/4b0100287e4199610e17a06ec577746d
+    title: Google IT Support
+    organization: coursera
+    organization_url: https://coursera.org/
     date_end: ''
-    date_start: '2017-10-01'
-    description: ''
-    organization: AGI (Analytical Graphics, Inc.)
-    organization_url: https://www.agi.com/
-    title: STK Master Certification (Level 2)
-    url: ''
-  - certificate_url: https://help.agi.com/stk/index.htm#training/CertificationOverview.htm
+    date_start: '2022-09-15'
+  - certificate_url: https://coursera.org/share/100fd53d039ea15523846c20ef070765
+    title: Google IT Automation with Python
+    organization: coursera
+    organization_url: https://coursera.org/
     date_end: ''
-    date_start: '2017-09-01'
-    description: ''
-    organization: AGI (Analytical Graphics, Inc.)
-    organization_url: https://www.agi.com/
-    title: STK Master Certification (Level 1)
-    url: ''
+    date_start: '2022-09-18'
 
 design:
   columns: '2'

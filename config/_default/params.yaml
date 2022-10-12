@@ -40,6 +40,7 @@ header:
     highlight_active_link: true
 
 footer:
+  widget: custom
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:

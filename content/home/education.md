@@ -22,21 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Trailhead by Salesforce
-    company: Salesforce
-    company_url: 'https://trailblazer.me/id/shoginn'
-    company_logo: org-salesforce
-    # location: Remote
-    date_start: '2021-04-01'
-    date_end: ''
-    description: |2-
-        Trailhead is a web application that provides education and certification.
-        * Certifications
-          * Admin (Pending Test)
-        * Current Trailhead Level
-          * Mountaineer
-        * Superbadges
-          * Business Administration Specialist
+  # - title: Trailhead by Salesforce
+  #   company: Salesforce
+  #   company_url: 'https://trailblazer.me/id/shoginn'
+  #   company_logo: org-salesforce
+  #   # location: Remote
+  #   date_start: '2021-04-01'
+  #   date_end: ''
+  #   description: |2-
+  #       Trailhead is a web application that provides education and certification.
+  #       * Certifications
+  #         * Admin (Pending Test)
+  #       * Current Trailhead Level
+  #         * Mountaineer
+  #       * Superbadges
+  #         * Business Administration Specialist
 
   - title: Bachelor of Science - Space Studies
     company: American Military University
