@@ -47,6 +47,16 @@ experience:
     date_end: '2012-11-15'
     description: |2-
         * Cum Laude
+  - title: Associate Of Applied Science (2x)
+    company: Community College of the Air Force
+    company_url: 'https://www.airuniversity.af.edu/Barnes/CCAF/'
+    company_logo: org-ccaf
+    # location: Remote
+    date_start: '2009-07-03'
+    date_end: '2010-02-09'
+    description: |2-
+        * Air And Space Operations Technology
+        * Aviation Maintenance Technology
 
 design:
   columns: '2'
