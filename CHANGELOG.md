@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/ShoGinn/ginn.space/compare/v1.1.0...v1.1.1) (2022-12-24)
+
+
+### Bug Fixes
+
+* add typescript ([c61bf8a](https://github.com/ShoGinn/ginn.space/commit/c61bf8a3d79c2185486921af0836ff01f4ff7279))
+
 ## [1.1.0](https://github.com/ShoGinn/ginn.space/compare/v1.0.1...v1.1.0) (2022-10-12)
 
 
