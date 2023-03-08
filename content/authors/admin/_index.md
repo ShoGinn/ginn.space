@@ -22,10 +22,15 @@ bio: My interests include software development and helping businesses reach thei
 
 interests:
   - Software development
-  - Web Development
+  - Agile Methodologies
+  - Cybersecurity
+  - Open Source Software
+  - Cloud Computing
+  - Artificial Intelligence
+  - Machine Learning
   - Data Analytics
-  - Salesforce
   - Business Operations
+  - DevOps
 
 # education:
 #   courses:
@@ -60,8 +65,10 @@ social:
 highlight_name: true
 ---
 
-For the past two decades, I have been a non-commissioned officer in the Air Force and now Space Force. I will transition to the tech industry upon retirement in June of 2023.
+s a non-commissioned officer in the Air Force and now Space Force for the past two decades, I have developed a deep expertise in technology and a passion for helping teams succeed. In June 2023, I will be retiring from the military and transitioning to the tech industry, with a focus on DevOps architecture and Data Science.
 
-I enjoy everything digital, including web design, software development, and data visualization.
+I have a strong background in web design, software development, and data visualization, and I am eager to apply these skills to the challenges of the tech industry. My goal is to become a skilled storyteller through Data Science and Analytics, while also leveraging my experience in DevOps architecture to bridge the gap between technology and business solutions.
 
-My focus today is to develop my skillsets as a Storyteller through Data Science and Analytics. With my experience and technical prowess, helping teams succeed is my passion!
+As a DevOps architect, I can help organizations implement best practices for software development, deployment, and maintenance, ensuring that technology solutions are aligned with business objectives. With my technical expertise and experience leading teams, I am confident that I can help organizations achieve their goals and drive innovation through technology.
+
+Whether it's working on DevOps projects, leveraging data to drive business decisions, or collaborating with cross-functional teams to deliver successful outcomes, I am excited to apply my skills to new challenges and help organizations thrive in the digital age.

@@ -28,9 +28,9 @@ experience:
     company_logo: org-ussf
     location: Virginia
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2023-08-01'
     description: |2-
-      I lead my team at the Headquarters Weapons and Tactics Element, responsible for developing and deploying weapons and tactics capabilities.
+      As the Flight Chief for Headquarters Weapons and Tactics, I am responsible for leading my team in the development and deployment of cutting-edge weapons and tactics capabilities for the United States Space Force. This requires me to stay up-to-date on the latest advancements in technology and to work closely with cross-functional teams to deliver results that meet the needs of our organization. I take pride in my ability to motivate and inspire my team to perform at their best, and I am committed to driving innovation and excellence in everything that we do.
   - title: Various Assignments
     company: United States Air Force
     company_url: 'https://www.af.mil'
@@ -38,7 +38,7 @@ experience:
     date_start: '2003-04-01'
     date_end: '2019-09-01'
     description: |2-
-      As a member of the Air Force, I have been involved in a variety of assignments for the last 20 years.
+      During my 20-year tenure in the United States Air Force, I had the opportunity to take on a variety of challenging assignments that helped me to develop my skills as a leader and a technologist. From serving as a member of a combat unit in the Middle East to working as a cyber security specialist in the United States, I gained valuable experience working in diverse environments and collaborating with individuals from different backgrounds. Throughout my time in the Air Force, I remained committed to staying on the cutting-edge of technology and developing innovative solutions to meet the needs of our organization.
 design:
   columns: '2'
 ---

@@ -22,41 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  # - title: Trailhead by Salesforce
-  #   company: Salesforce
-  #   company_url: 'https://trailblazer.me/id/shoginn'
-  #   company_logo: org-salesforce
-  #   # location: Remote
-  #   date_start: '2021-04-01'
-  #   date_end: ''
-  #   description: |2-
-  #       Trailhead is a web application that provides education and certification.
-  #       * Certifications
-  #         * Admin (Pending Test)
-  #       * Current Trailhead Level
-  #         * Mountaineer
-  #       * Superbadges
-  #         * Business Administration Specialist
-
-  - title: Bachelor of Science - Space Studies
+  - title: Bachelor of Science in Space Studies
     company: American Military University
     company_url: 'https://www.amu.apus.edu/'
     company_logo: org-amu
-    # location: Remote
+    location: Remote
     date_start: '2009-04-01'
     date_end: '2012-11-15'
     description: |2-
-        * Cum Laude
-  - title: Associate Of Applied Science (2x)
+        I earned my Bachelor of Science in Space Studies from American Military University, graduating with Cum Laude honors. Through this program, I gained a deep understanding of space technology and policy, as well as the leadership and analytical skills needed to succeed in the field.
+
+  - title: Associate of Applied Science in Air and Space Operations Technology
     company: Community College of the Air Force
     company_url: 'https://www.airuniversity.af.edu/Barnes/CCAF/'
     company_logo: org-ccaf
-    # location: Remote
+    location: Remote
     date_start: '2009-07-03'
     date_end: '2010-02-09'
     description: |2-
-        * Air And Space Operations Technology
-        * Aviation Maintenance Technology
+        I earned my first Associate of Applied Science degree in Air and Space Operations Technology from the Community College of the Air Force, which provided a strong foundation in the principles of air and space operations. This program equipped me with the skills and knowledge needed to succeed in my military career, and set me on the path to a career in technology.
+
+  - title: Associate of Applied Science in Aviation Maintenance Technology
+    company: Community College of the Air Force
+    company_url: 'https://www.airuniversity.af.edu/Barnes/CCAF/'
+    company_logo: org-ccaf
+    location: Remote
+    date_start: '2004-08-23'
+    date_end: '2006-06-09'
+    description: |2-
+        I earned my second Associate of Applied Science degree in Aviation Maintenance Technology from the Community College of the Air Force. This program provided me with a deep understanding of aircraft maintenance, repair, and overhaul, which proved invaluable throughout my career in the Air Force and Space Force.
 
 design:
   columns: '2'

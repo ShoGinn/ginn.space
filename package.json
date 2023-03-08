@@ -16,20 +16,20 @@
   "main": "index.js",
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
-    "postcss": "^8.4.20",
+    "postcss": "^8.4.21",
     "postcss-cli": "^10.1.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "cspell": "^6.18.0",
-    "html-validate": "^7.11.1",
+    "cspell": "^6.28.0",
+    "html-validate": "^7.13.2",
     "html-validate-markdown": "^3.0.0",
-    "husky": "^8.0.2",
-    "lint-staged": "^13.1.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.2",
     "npm-run-all": "^4.1.5",
-    "prettier": "^2.8.1",
+    "prettier": "^2.8.4",
     "prettier-plugin-go-template": "^0.0.13",
-    "rimraf": "^3.0.2"
+    "rimraf": "^4.3.1"
   },
   "husky": {
     "hooks": {
@@ -42,9 +42,13 @@
       "Ginn"
     ],
     "words": [
+      "Algodaruma",
+      "Algorand",
       "beautifulsoup",
       "ccaf",
       "coursera",
+      "Daruma",
+      "Discordx",
       "Homelab",
       "ments",
       "numpy",

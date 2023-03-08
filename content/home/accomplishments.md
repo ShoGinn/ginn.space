@@ -23,6 +23,11 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_utl: https://www.credly.com/badges/4f26ff8e-77c7-4f7a-a5f1-0db1fdaa17e1
+    title: 'AWS Cloud Quest: Cloud Practitioner'
+    organization: aws
+    date_end: ''
+    date_start: '2023-03-01'
   - certificate_url: https://coursera.org/share/4b0100287e4199610e17a06ec577746d
     title: Google IT Support
     organization: coursera

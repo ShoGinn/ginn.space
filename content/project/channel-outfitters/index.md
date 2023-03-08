@@ -1,7 +1,7 @@
 ---
 title: Channel Outfitters
-description: I design and maintain the Channel Outfitters website
-summary: Channel Outfitters is a webpage I designed and hosted for Lindsey Channel for his Montana Outfitter Guide business.
+description: I designed and maintain the Channel Outfitters website
+summary: Channel Outfitters is a website I created for Lindsey Channel's Montana Outfitter Guide business.
 date: 2022-05-12
 tags:
   - webpage
@@ -14,16 +14,18 @@ keywords:
   - mobile-friendly
 ---
 
-I took a minimal approach to this project. The key elements were to enable visitors to view the website in a mobile-friendly format and make the website responsive to the screen size.
+## Project Overview
 
-With that in mind, Lindsey was pleased with how he could easily do blog posts.
+Channel Outfitters is a website I designed and developed for Lindsey Channel's Montana Outfitter Guide business. The primary goals of the project were to create a mobile-friendly website that is responsive to different screen sizes and to make it easy for Lindsey to post blog updates about his services.
 
-The most significant part of this is the ability to contact Lindsey about his services and see what his guide services are.
+## Project Details
 
----
+I took a minimalist approach to the design of the website, focusing on making it easy to navigate and providing visitors with essential information about Lindsey's guide services. The website includes a contact form that visitors can use to get in touch with Lindsey and book his services.
+
+One of the key features of the website is its mobile-friendly design, which ensures that visitors can access the site from any device and get a consistent user experience. The site is built using Hugo, a fast and flexible static site generator that allows for easy content updates and site maintenance.
 
 ## Testimonial
 
-> Scott has exceeded my expectations in the quality of the web page and the overall design of the website!<br> ![Lindsey Channel::round](lindsey.jpg ' ') <cite>Lindsey Channel[^1]</cite>
+> Scott has exceeded my expectations in the quality of the web page and the overall design of the website! He was easy to work with and made the process of creating my website a breeze.<br> ![Lindsey Channel::round](lindsey.jpg ' ') <cite>Lindsey Channel, Guide & Owner of Channel Outfitters[^1]</cite>
 
 [^1]: Guide & Owner of [Channel Outfitters](https://channeloutfitters.com).

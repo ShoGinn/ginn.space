@@ -1,7 +1,7 @@
 ---
 title: Montana Trout Hunters
-description: I design and maintain the Montana Trout Hunters website
-summary: Montana Trout Hunters is a webpage I designed and hosted for Darrel DeLeon for his Montana Fly Fishing Outfitter service.
+description: I designed and maintain the Montana Trout Hunters website
+summary: Montana Trout Hunters is a website I created for Darrel DeLeon's Montana Fly Fishing Outfitter service.
 date: 2022-05-13
 tags:
   - webpage
@@ -14,20 +14,20 @@ keywords:
   - mobile-friendly
 ---
 
-Darrel has been a long-time friend and the Owner and Guide for Montana Trout Hunters. I wanted to provide him with more than just a business presence and a way to connect with those seeking to hunt and fish the Big Sky State.
+## Project Overview
 
-The website is a great way to showcase Montana Trout Hunters and their products and services.
+Montana Trout Hunters is a website I designed and developed for Darrel DeLeon's Montana Fly Fishing Outfitter service. The goal of the project was to create a mobile-friendly website that showcases Darrel's products and services and provides visitors with information about fly fishing in Montana.
 
-Key factors were enabling visitors to view the website in a mobile-friendly format and making the website responsive to the screen size.
+## Project Details
 
-With that being able to see the most current Instagram posts, Darrel was pleased with how he could do blog posts easily.
+I worked closely with Darrel to ensure that the website met his needs and reflected the unique character of his business. One of the key features of the site is its mobile-friendly design, which ensures that visitors can access the site from any device and get a consistent user experience. The site is built using Hugo, a fast and flexible static site generator that allows for easy content updates and site maintenance.
 
-Also, the education piece of each of the rivers has helped those seeking where they can find the best fishing spots in Montana.
+The website includes a blog where Darrel can share his knowledge of fly fishing in Montana and provide updates on his services. The site also features an Instagram feed that displays his most recent posts and allows visitors to see his latest catches and outdoor adventures.
 
----
+Additionally, the website includes an education section that provides information about the rivers and streams in Montana and where visitors can find the best fishing spots. This section has been a valuable resource for those planning their fly fishing trips to Montana.
 
 ## Testimonial
 
-> I love the integration with [Instagram](https://www.instagram.com/montanatrouthunters/) and [Facebook](https://www.facebook.com/Montana.Trout.Hunters/) and the ability to access it while I'm on site. I am thrilled with the design and the functionality Scott has provided.<br> ![Darrel Deleon::round](darrel.jpg ' ') <cite>Darrel DeLeon[^1]</cite>
+> I love the integration with Instagram and Facebook and the ability to access it while I'm on site. I am thrilled with the design and the functionality Scott has provided. He made the process easy and enjoyable, and I'm grateful for the beautiful website he created for my business.<br> ![Darrel Deleon::round](darrel.jpg ' ') <cite>Darrel DeLeon, Guide & Owner of Montana Trout Hunters[^1]</cite>
 
 [^1]: Guide & Owner of [Montana Trout Hunters](https://montanatrouthunters.com).
