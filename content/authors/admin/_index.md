@@ -65,7 +65,7 @@ social:
 highlight_name: true
 ---
 
-s a non-commissioned officer in the Air Force and now Space Force for the past two decades, I have developed a deep expertise in technology and a passion for helping teams succeed. In June 2023, I will be retiring from the military and transitioning to the tech industry, with a focus on DevOps architecture and Data Science.
+As a non-commissioned officer in the Air Force and now Space Force for the past two decades, I have developed a deep expertise in technology and a passion for helping teams succeed. In June 2023, I will be retiring from the military and transitioning to the tech industry, with a focus on DevOps architecture and Data Science.
 
 I have a strong background in web design, software development, and data visualization, and I am eager to apply these skills to the challenges of the tech industry. My goal is to become a skilled storyteller through Data Science and Analytics, while also leveraging my experience in DevOps architecture to bridge the gap between technology and business solutions.
 
