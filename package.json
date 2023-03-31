@@ -43,14 +43,17 @@
       "Ginn"
     ],
     "words": [
+      "adduser",
       "Algodaruma",
       "Algorand",
       "beautifulsoup",
       "ccaf",
+      "Contabo",
       "coursera",
       "Daruma",
       "Discordx",
       "Homelab",
+      "lastmod",
       "ments",
       "numpy",
       "pydantic",
@@ -59,6 +62,7 @@
       "skillsets",
       "Superbadges",
       "Trailhead",
+      "usermod",
       "ussf"
     ]
   },
@@ -73,7 +77,6 @@
     "build:hugo": "cross-env SHOGINN_SCRIPTS_BUILD_HUGO=1 run-s clean:hugo _start:_hugo",
     "build": "run-s build:hugo",
     "update:deps": "npx ncu && npm install"
-
   },
   "lint-staged": {
     "*.md": [

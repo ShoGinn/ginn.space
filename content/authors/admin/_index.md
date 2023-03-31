@@ -28,7 +28,6 @@ interests:
   - Cloud Computing
   - Artificial Intelligence
   - Machine Learning
-  - Data Analytics
   - Business Operations
   - DevOps
 
@@ -65,10 +64,12 @@ social:
 highlight_name: true
 ---
 
-As a non-commissioned officer in the Air Force and now Space Force for the past two decades, I have developed a deep expertise in technology and a passion for helping teams succeed. In June 2023, I will be retiring from the military and transitioning to the tech industry, with a focus on DevOps architecture and Data Science.
+For the past two decades, I've served as a non-commissioned officer in the Air Force and now Space Force, developing a deep expertise in technology and a passion for helping teams succeed. In June 2023, I'll be retiring from the military and transitioning to the tech industry, with a focus on DevOps.
 
-I have a strong background in web design, software development, and data visualization, and I am eager to apply these skills to the challenges of the tech industry. My goal is to become a skilled storyteller through Data Science and Analytics, while also leveraging my experience in DevOps architecture to bridge the gap between technology and business solutions.
+With a strong background in web design, software development, and data visualization, I bring a unique set of skills to the table, including the ability to effectively communicate technical concepts and solutions to both technical and non-technical stakeholders.
 
-As a DevOps architect, I can help organizations implement best practices for software development, deployment, and maintenance, ensuring that technology solutions are aligned with business objectives. With my technical expertise and experience leading teams, I am confident that I can help organizations achieve their goals and drive innovation through technology.
+As a DevOps engineer, effective communication is key. By bridging the gap between technology and business solutions, I can align technology solutions with business objectives and drive innovation. This approach fosters collaboration and cross-functional success by building empathy and understanding across teams.
 
-Whether it's working on DevOps projects, leveraging data to drive business decisions, or collaborating with cross-functional teams to deliver successful outcomes, I am excited to apply my skills to new challenges and help organizations thrive in the digital age.
+In addition, conveying the importance of DevOps and its impact on the organization is critical. By articulating the value of DevOps in a way that resonates with stakeholders, I can build buy-in and support for initiatives, leading to more successful outcomes.
+
+Overall, my background in technology and my communication skills position me to excel as a DevOps engineer. I look forward to leveraging my expertise to drive innovation and foster success by building effective relationships across teams.
