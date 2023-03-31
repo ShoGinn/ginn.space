@@ -22,15 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Headquarters Weapons and Tactics Flight Chief
+  - title: Senior Operations Manager
     company: United States Space Force
     company_url: 'https://www.spaceforce.mil'
     company_logo: org-ussf
     location: Virginia
     date_start: '2019-09-01'
-    date_end: '2023-08-01'
+    date_end: '2023-06-01'
     description: |2-
-      As the Flight Chief for Headquarters Weapons and Tactics, I am responsible for leading my team in the development and deployment of cutting-edge weapons and tactics capabilities for the United States Space Force. This requires me to stay up-to-date on the latest advancements in technology and to work closely with cross-functional teams to deliver results that meet the needs of our organization. I take pride in my ability to motivate and inspire my team to perform at their best, and I am committed to driving innovation and excellence in everything that we do.
+      Managed a 5-member branch and synchronized a 31 military, civilian, and contractor team to develop tactics, techniques, and procedures for the operation of a multi-billion dollar enterprise
+
+      Guided response activities with ground sites to maintain the health and 24/7 mission availability of over 55 national intelligence, surveillance, and reconnaissance satellites
+
+      Formulated Headquarters, Space Development Agency protection efforts by guiding training and equipment functions to organizational threats in accordance with Department of Defense and Mission partners
+
+      Led and instructed various training courses and organized numerous training events to certify personnel for conducting operations and drive joint military planning necessities
+      
+      Provided direct oversight to National Reconnaissance Office Operations by coordinating tactics with over 100 personnel to avert any potential threats
   - title: Various Assignments
     company: United States Air Force
     company_url: 'https://www.af.mil'

@@ -6,16 +6,16 @@ title: Scott Ginn
 superuser: true
 
 # Role/position
-# role:
+role: 'DevOps Engineer'
 
 # Status emoji
 # status:
 #   icon: ☕️
 
 # Organizations/Affiliations
-organizations:
-  - name: United States Space Force
-    url: https://www.spaceforce.mil/
+# organizations:
+#   - name: United States Space Force
+#     url: https://www.spaceforce.mil/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include software development and helping businesses reach their potential.
