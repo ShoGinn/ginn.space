@@ -1,0 +1,19 @@
+baseURL = '/'
+defaultContentLanguage = "id"
+languageCode = "id"
+title = 'Scott Ginn'
+disableHugoGeneratorInject = false
+PygmentsCodeFences = false
+PygmentsStyle = "none"
+pluralizelisttitles = "false"
+enableRobotsTXT = true
+enableEmoji = false
+disableKinds = ["RSS", "term", "taxonomy", "sitemap", "404"]
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+logo = "/svg/logo.svg"
+favicon = "/svg/logo.svg"
