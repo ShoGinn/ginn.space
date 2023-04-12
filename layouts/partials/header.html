@@ -1,4 +1,10 @@
 <header class="header">
-  <img src="{{ .Site.Params.logo | safeURL }}" width="60" height="60" alt="logo" class="logo" />
-  <h1 class="bio">{{ .Title | safeHTML}}</h1>
+  {{ if .Site.Params.logo | default false }}
+    {{- $logo := resources.Get (printf "media/%s" .Site.Params.logo) -}}
+    {{ if not $logo }}
+      {{ errorf "Logo not found `assets/media/%s`" .Site.Params.logo }}
+    {{ end }}
+    <img src="{{ $logo.RelPermalink }}" width="60" height="60" alt="logo" class="logo" />
+  {{ end }}
+  <h1 class="bio">{{ .Title | safeHTML }}</h1>
 </header>
