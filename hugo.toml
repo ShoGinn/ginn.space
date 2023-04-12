@@ -1,6 +1,6 @@
 baseURL = '/'
-defaultContentLanguage = "id"
-languageCode = "id"
+defaultContentLanguage = "en-us"
+languageCode = "en-us"
 title = 'Scott Ginn'
 disableHugoGeneratorInject = false
 PygmentsCodeFences = false
