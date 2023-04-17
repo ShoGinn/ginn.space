@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="pages">
-    {{ range (where .Site.Pages "Type" "bio" ) }}
-      <div class="link-bio">
+    {{ range (where .Site.Pages "Type" "link" ) }}
+      <div class="link-connect">
         <img src="{{ .Params.svg | safeURL }}" width="30" height="30" alt="logo" class="svg" />
         <h2 class="title">
           <a target="_blank" rel="noopener noreferrer noindex nofollow" href="{{ .Params.link | safeURL }}"

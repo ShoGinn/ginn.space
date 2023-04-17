@@ -8,11 +8,7 @@ PygmentsStyle = "none"
 pluralizelisttitles = "false"
 enableRobotsTXT = true
 enableEmoji = false
-
-# disableKinds = ["RSS", "term", "taxonomy", "sitemap", "404"]
-[taxonomies]
-category = "categories"
-tag = "tags"
+disableKinds = ['taxonomy', 'term', 'sitemap']
 
 [params]
 favicon = "icon.png"
